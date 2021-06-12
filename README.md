@@ -14,4 +14,4 @@
 
 # cd Dum.run
 
-python Dum.run
+# python Dum.run
